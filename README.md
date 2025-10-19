@@ -1,5 +1,8 @@
 # SpaceApp
 
+👩🏾‍💻 Navegue pelo projeto:
+[Space App](https://space-app-asilva.vercel.app/)
+
 O **SpaceApp** é um projeto desenvolvido durante o curso de React com Vite e Styled Components, com o objetivo de praticar conceitos fundamentais de criação de interfaces modernas utilizando **React**, **CSS-in-JS** e **boas práticas de componentização**.
 
 O projeto simula uma aplicação de galeria espacial com imagens e legendas, incluindo uma **NavBar**, **banner principal**, **galeria de fotos**, **barra lateral de imagens populares** e **footer** estilizados com **Styled Components**.
